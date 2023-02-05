@@ -1,0 +1,6 @@
+Learn how to do web app deployment
+Submit assignment for CS50 (second assignment)
+Query baseline for business profile
+Query baseline for EBCR
+Create one pager for GoShop dynamic booking
+Setup an estimates redesign weekly catchup
